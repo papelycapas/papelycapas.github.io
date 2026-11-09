@@ -1,0 +1,11 @@
+PAPEL Y CAPAS LAB · qué hacer con este .zip (2026-11-08 2233)
+
+1) DESCOMPRIME TODO (clic derecho sobre el .zip → «Extraer aquí»). No abras los archivos desde adentro del .zip.
+
+2) Carpeta «subir-a-github» = la página de CLIENTES, completa: index.html + carpeta catalogo (30 de 30 diseños).
+   ANTES DE SUBIR, pruébala: abre subir-a-github/index.html con doble clic. Lo que veas ahí es exactamente lo que verán tus clientes en papelycapas.cl.
+   (Ojo: si en esa prueba envías un pedido, te llega de verdad al correo.)
+   Para publicar: GitHub → Add file → Upload files → arrastra el index.html y la carpeta catalogo que están DENTRO de «subir-a-github» → Commit changes.
+
+3) taller_2026-11-08_2233.html = TU TALLER (lleva tu PIN): NO lo subas a GitHub. Guárdalo en tu carpeta del taller junto a los anteriores.
+   Trae todos sus diseños adentro: funciona abierto desde cualquier carpeta.
